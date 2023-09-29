@@ -44,3 +44,11 @@ Es un leguaje de marcado para la elaboración de páginas web.
 </body>
 </html> 
 ```
+
+7. ¿Qué es CSS?
+
+Es un lenguaje de diseño gráfico para definir y crear la presentación de un documento estructurado escrito en un lenguaje de marcado.
+
+8. Flujo de trabajo (navegador, petición, servidor y respuesta):
+
+![Imagen](https://github.com/ivdemo/SMX2-M8UF1A2_Ivan-Delgado/blob/main/Captura.JPG "Imagen")
