@@ -20,7 +20,7 @@ Son programas que permiten manipular la información con la que se trabaja de fo
 
 |Aplicaciones |Visto|
 |--------------|:------:|
-|Google Docs|
+|Google Docs|![Visto](https://github.com/ivdemo/SMX2-M8UF1A2_Ivan-Delgado/blob/main/istockphoto-496603666-612x612.jpg)|
 |Google Slides|
 |Google Sheets|
 |Google Calendar|
