@@ -11,3 +11,17 @@ Un sitio web es una colección de páginas webrelacionadas y comunes a un domini
 3. ¿Qué es una aplicación web?
 
 Una aplicación web es un software que se ejecuta en el navegador web.
+
+4. ¿Qué es una herramienta ofimática?
+
+Son programas que permiten manipular la información con la que se trabaja de forma habitual en una oficina.
+
+5. [Herramientas de Google:](https://www.google.com/intl/es-419/chrome/browser-tools/)
+
+|Aplicaciones |Visto|
+|Google Docs|
+|Google Slides|
+|Google Sheets|
+|Google Calendar|
+|Google Meet|
+|...|...|
