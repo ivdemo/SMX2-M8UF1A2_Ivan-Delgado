@@ -21,8 +21,8 @@ Son programas que permiten manipular la información con la que se trabaja de fo
 |Aplicaciones |Visto|
 |--------------|:------:|
 |Google Docs|![Visto](https://github.com/ivdemo/SMX2-M8UF1A2_Ivan-Delgado/blob/main/Check_mark.svg.jpg "Visto")|
-|Google Slides|
-|Google Sheets|
+|Google Slides|![Visto](https://github.com/ivdemo/SMX2-M8UF1A2_Ivan-Delgado/blob/main/Check_mark.svg.jpg "Visto")|
+|Google Sheets|![Visto](https://github.com/ivdemo/SMX2-M8UF1A2_Ivan-Delgado/blob/main/Check_mark.svg.jpg "Visto")|
 |Google Calendar|
 |Google Meet|
 |...|...|
