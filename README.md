@@ -26,3 +26,7 @@ Son programas que permiten manipular la información con la que se trabaja de fo
 |Google Calendar|![Calendario](https://github.com/ivdemo/SMX2-M8UF1A2_Ivan-Delgado/blob/main/2370264.jpg "Calendario")|
 |Google Meet| ![Meet](https://github.com/ivdemo/SMX2-M8UF1A2_Ivan-Delgado/blob/main/2933e7ea63cc960bf25d516c0db53b35-icono-de-computadora-portatil-plana.jpg "Meet")|
 |...|...|
+
+6. ¿Qué es HTML?
+
+Es un leguaje de marcado para la elaboración de páginas web.
