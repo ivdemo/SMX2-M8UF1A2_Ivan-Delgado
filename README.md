@@ -30,3 +30,17 @@ Son programas que permiten manipular la información con la que se trabaja de fo
 6. ¿Qué es HTML?
 
 Es un leguaje de marcado para la elaboración de páginas web.
+
+```
+<!D0CTYPE html>
+<html lang="en">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+</body>
+</html> 
+```
